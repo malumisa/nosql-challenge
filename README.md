@@ -10,9 +10,9 @@ The UK Food Standards Agency evaluates various establishments across the United 
 2.	Within the notebook, import the libraries: PyMongo and Pretty Print (pprint).
 3.	Create an instance of the Mongo Client.
 4.	Confirm that you created the database and loaded the data properly:
-  a.	List the databases you have in MongoDB. Confirm that uk_food is listed.
-  b.	List the collection(s) in the database to ensure that establishments is there.
-  c.	Find and display one document in the establishments collection using find_one and display with pprint.
+a. List the databases you have in MongoDB. Confirm that uk_food is listed.
+b. List the collection(s) in the database to ensure that establishments is there.
+c. Find and display one document in the establishments collection using find_one and display with pprint.
 5.	Assign the establishments collection to a variable to prepare the collection for use.
 
 ## Part 2: Update the Database
